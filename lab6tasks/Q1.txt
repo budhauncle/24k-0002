@@ -1,0 +1,1 @@
+for this particular problem while loop is better as we do not know the stoppoing point for the program
